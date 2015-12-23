@@ -64,10 +64,10 @@ public:
 	}
 
 	// return vector's size
-	int const size() { return _size; }
+	int size() const { return _size; }
 
 	// alias of size()
-	int length() { return _size; }
+	int length() const { return _size; }
 
 	// adds an element to the end of vector
 	int push_back(T &unit) {
@@ -97,8 +97,8 @@ public:
 
 	// insert new value to a specified position, slides every posterior element
 	void insert(int &position, T &unit) {
-		if (position > _size) return;
-		if (position == _size) {
+		if (position > _size-1) return;
+		if (position == _size-1) {
 			push_back(unit);
 			return;
 		}
