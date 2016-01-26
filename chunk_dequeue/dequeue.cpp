@@ -15,18 +15,7 @@ class dequeue {
         typedef pair<pair<int,int>,T*> DataChunk;
         kt_vector<DataChunk> _chunk_connector;
         int _rear_chunk, _head_chunk, _rear_node, _head_node, _size;
-    
-    public:
-        dequeue() {
-            T* tmp = new T[DATA_CHUNK_SIZE];
-            _chunk_connector.push_back( 
-                DataChunk(pair<int,int>(-1,-1), tmp) 
-            );
-            _rear_chunk = _head_chunk = 0;
-            _head_node = DATA_CHUNK_SIZE / 2;
-            _rear_node = _head_node - 1;
-        }
-        
+
         bool headOverflow() {
             return _head_node >= DATA_CHUNK_SIZE - 1;
         }
@@ -56,15 +45,41 @@ class dequeue {
             _rear_chunk = new_chunk_idx;
             _rear_node = DATA_CHUNK_SIZE - 1;
         }
+    
+    public:
+        dequeue() {
+            T* tmp = new T[DATA_CHUNK_SIZE];
+            _chunk_connector.push_back( 
+                DataChunk(pair<int,int>(-1,-1), tmp) 
+            );
+            _rear_chunk = _head_chunk = 0;
+            _head_node = DATA_CHUNK_SIZE / 2;
+            _rear_node = _head_node - 1;
+        }
         
-        void push(T data) {
+        void push_back(T data) {
             if (headOverflow()) allocateHead();
             (_chunk_connector[_head_chunk].second)[_head_node++] = data;
         }
         
-        void unshift(T data) {
+        void push_front(T data) {
             if (rearOverflow()) allocateRear();
             (_chunk_connector[_rear_chunk].second)[_rear_node--] = data;
+        }
+
+        T pop_front() {
+            T data = (_chunk_connector[_head_chunk].second)[_head_node--];
+            if (_head_node == -1) {
+                int to_delete = _head_chunk;
+                _head_chunk = _chunk_connector[_head_chunk].first.first;
+                _chunk_connector[_head_chunk].first.second = -1;
+                delete 
+            }
+            return data;
+        }
+
+        T pop_front() {
+            
         }
             
         void dump() {
@@ -102,13 +117,6 @@ using namespace KT;
 int main()
 {
   dequeue<int> a;
-  a.push(7);
-  a.push(10);
-  a.push(10);
-  a.push(10);
-  a.push(10);
-  a.unshift(4);
-  a.unshift(4);
   a.dump();
   return 0;
 }

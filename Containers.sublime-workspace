@@ -1,0 +1,1258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getC",
+				"getColorRatio"
+			],
+			[
+				"pri",
+				"private	(dequeue.cpp)"
+			],
+			[
+				"_h",
+				"_head_node"
+			],
+			[
+				"curr",
+				"curr_chunk"
+			],
+			[
+				"_head",
+				"_head_node"
+			],
+			[
+				"_he",
+				"_head_chunk"
+			],
+			[
+				"_rear",
+				"_rear_chunk"
+			],
+			[
+				"Da",
+				"DATA_CHUNK_SIZE"
+			],
+			[
+				"type",
+				"typedef	(kt_dequeue.cpp)"
+			],
+			[
+				"_",
+				"_head"
+			],
+			[
+				"co",
+				"cout	(main.cpp)"
+			],
+			[
+				"s",
+				"std	(main.cpp)"
+			],
+			[
+				"kt_",
+				"kt_iterator"
+			],
+			[
+				"de",
+				"deqnode"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"end",
+				"endl	(main.cpp)"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"_en",
+				"_ending_it"
+			],
+			[
+				"star",
+				"start_it"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"kt",
+				"kt_dequeue"
+			],
+			[
+				"ke_",
+				"kt_dequeue_iterator	(kt_dequeue_iterator.cpp)"
+			],
+			[
+				"du",
+				"dump"
+			],
+			[
+				"data",
+				"data_pointer"
+			],
+			[
+				"d",
+				"dump	(kt_vector.cpp)"
+			],
+			[
+				"_p",
+				"_pointer"
+			],
+			[
+				"iterator",
+				"iterators	(kt_vector.cpp)"
+			],
+			[
+				"_s",
+				"_storage_index"
+			],
+			[
+				"itera",
+				"iterators	(main.cpp)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"m",
+				"myPoint"
+			],
+			[
+				"r",
+				"rear"
+			],
+			[
+				"un",
+				"unit"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"get",
+				"get_data	(deqnode.cpp)"
+			],
+			[
+				"t",
+				"tp	template <typename ${1:_InputIter}>"
+			],
+			[
+				"new",
+				"newData"
+			],
+			[
+				"near",
+				"near_node"
+			],
+			[
+				"read",
+				"readedHM"
+			],
+			[
+				"push",
+				"pushMostLeft	(Node.cpp)"
+			],
+			[
+				"empty",
+				"emptyFlag"
+			],
+			[
+				"buffer",
+				"bitset_buffer"
+			],
+			[
+				"bu",
+				"BUFFER_SIZE"
+			],
+			[
+				"flags",
+				"flags_buffer"
+			],
+			[
+				"dum",
+				"dumpToFile	(Node.cpp)"
+			],
+			[
+				"emp",
+				"emptyNode"
+			],
+			[
+				"Node",
+				"Node8Package	(main.cpp)"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"Buf",
+				"BUFFER_SIZE"
+			],
+			[
+				"wri",
+				"writeable_fp"
+			],
+			[
+				"rea",
+				"readable_fp"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"vr",
+				"vector"
+			],
+			[
+				"HA",
+				"haffmanMap"
+			],
+			[
+				"haff",
+				"haffmanCodingTree"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"ch",
+				"char"
+			],
+			[
+				"free",
+				"freeNodes"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"fr",
+				"freeNodes"
+			],
+			[
+				"freq",
+				"frequensyMap"
+			],
+			[
+				"fre",
+				"frequensyMap"
+			],
+			[
+				"chun",
+				"chunk1"
+			],
+			[
+				"buff",
+				"buff_size"
+			],
+			[
+				"cha",
+				"chastotaSymb"
+			],
+			[
+				"ex",
+				"ex_file"
+			],
+			[
+				"ex_f_",
+				"ex_f_name"
+			],
+			[
+				"getFile",
+				"getFileType"
+			],
+			[
+				"setTestin",
+				"setTestingMap"
+			],
+			[
+				"set",
+				"setTestingFile"
+			],
+			[
+				"S",
+				"SourceExecutor"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tes",
+				"tested_file"
+			],
+			[
+				"comp",
+				"compliersMap"
+			],
+			[
+				"testin",
+				"testUnitArray"
+			],
+			[
+				"File",
+				"FileWrapper"
+			],
+			[
+				"nex",
+				"nextLine"
+			],
+			[
+				"F",
+				"FileWrapper"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"echo",
+				"echoPath"
+			],
+			[
+				"deg",
+				"deg2rad"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"ro",
+				"rotations"
+			],
+			[
+				"array",
+				"array_pop"
+			],
+			[
+				"card",
+				"cardsN"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"VA",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Mys",
+				"MysqlGate"
+			],
+			[
+				"dia",
+				"display"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"print",
+				"printTree	(temp.h)"
+			],
+			[
+				"TYPE",
+				"TYPE_OPERATOR"
+			],
+			[
+				"Binary",
+				"BinaryTreeNode"
+			],
+			[
+				"Priority",
+				"priorityDifference"
+			],
+			[
+				"prio",
+				"priorityDifference"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"Token",
+				"TokenOperator"
+			],
+			[
+				"temp",
+				"temporaryToken"
+			],
+			[
+				"token",
+				"tokenType"
+			],
+			[
+				"TYP",
+				"TYPE_VARIABLE	(temp.h)"
+			],
+			[
+				"DIRECTION",
+				"DIRECTION_CLOSE"
+			],
+			[
+				"do",
+				"doSome	(somelib.h)"
+			],
+			[
+				"num",
+				"numberOfResults"
+			],
+			[
+				"Raw",
+				"RawEquisionParser	(main.cpp)"
+			],
+			[
+				"next",
+				"nextToken"
+			],
+			[
+				"ra",
+				"rawSize"
+			],
+			[
+				"raw",
+				"rawString"
+			],
+			[
+				"iterat",
+				"iteration_positon"
+			],
+			[
+				"add",
+				"addAttribute"
+			],
+			[
+				"coun",
+				"country_of_origin	(YML_packer.php)"
+			],
+			[
+				"loca",
+				"local_delivery_cost	(YML_packer.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 805,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#define DATA_CHUNK_SIZE 8\n#include <iostream>\n#include <string>\n#include \"../vector/kt_vector.cpp\"\n#include <utility>\n\nusing namespace std;\n\nnamespace KT {\n\ntemplate <typename T>\nclass dequeue {\n    \n    private:\n        typedef pair<pair<int,int>,T*> DataChunk;\n        kt_vector<DataChunk> _chunk_connector;\n        int _rear_chunk, _head_chunk, _rear_node, _head_node, _size;\n\n        bool headOverflow() {\n            return _head_node >= DATA_CHUNK_SIZE - 1;\n        }\n        \n        bool rearOverflow() {\n            return _rear_node <= 0;\n        }\n        \n        void allocateHead() {\n            T* tmp = new T[DATA_CHUNK_SIZE];\n            int new_chunk_idx = _chunk_connector.size();\n            _chunk_connector[_head_chunk].first.second = new_chunk_idx;\n            _chunk_connector.push_back( \n               DataChunk(pair<int,int>(_head_chunk,-1), tmp) \n            );\n            _head_chunk = new_chunk_idx;\n            _head_node = 0;\n        }\n        \n        void allocateRear() {\n            T* tmp = new T[DATA_CHUNK_SIZE];\n            int new_chunk_idx = _chunk_connector.size();\n            _chunk_connector[_rear_chunk].first.first = new_chunk_idx;\n            _chunk_connector.push_back( \n                DataChunk(pair<int,int>(-1, _rear_chunk), tmp) \n            );\n            _rear_chunk = new_chunk_idx;\n            _rear_node = DATA_CHUNK_SIZE - 1;\n        }\n    \n    public:\n        dequeue() {\n            T* tmp = new T[DATA_CHUNK_SIZE];\n            _chunk_connector.push_back( \n                DataChunk(pair<int,int>(-1,-1), tmp) \n            );\n            _rear_chunk = _head_chunk = 0;\n            _head_node = DATA_CHUNK_SIZE / 2;\n            _rear_node = _head_node - 1;\n        }\n        \n        void push_back(T data) {\n            if (headOverflow()) allocateHead();\n            (_chunk_connector[_head_chunk].second)[_head_node++] = data;\n        }\n        \n        void push_front(T data) {\n            if (rearOverflow()) allocateRear();\n            (_chunk_connector[_rear_chunk].second)[_rear_node--] = data;\n        }\n\n        T pop_back() {\n            T data = (_chunk_connector[_head_chunk].second)[_head_node--];\n            if (_head_node == -1) {\n                int to_delete = _head_chunk;\n                _head_chunk = _chunk_connector[_head_chunk].first.first;\n                _chunk_connector[_head_chunk].first.second = -1;\n                delete \n            }\n            return data;\n        }\n\n        T pop_front() {\n            \n        }\n            \n        void dump() {\n            int curr_node = _rear_node+1,\n                curr_chunk = _rear_chunk; \n            cout << \"------------------\" << endl;\n            cout << \"_rear_chunk = \" << _rear_chunk << endl;\n            cout << \"_head_chunk = \" << _head_chunk << endl;\n            cout << \"_rear_node = \" << _rear_node << endl;\n            cout << \"_head_node = \" << _head_node << endl;\n            cout << \"------------------\" << endl;\n            while (curr_chunk != _head_chunk || curr_node != _head_node) {\n                cout << \"\\\"\" << (_chunk_connector[curr_chunk].second)[curr_node++] << \"\\\" \";\n                if (curr_node >= DATA_CHUNK_SIZE - 1) {\n                    if (_chunk_connector[curr_chunk].first.second == -1) break;\n                    curr_node = 0;\n                    curr_chunk = _chunk_connector[curr_chunk].first.second;\n                    cout << endl;\n                }\n            }\n            cout << endl << \"------------------\" << endl;\n        }\n\n        ~dequeue() {\n            int limit = _chunk_connector.size();\n            for (int i=0; i<limit; ++i)\n                delete _chunk_connector[i].second;\n        };\n};\n\n}\n\nusing namespace KT;\n\nint main()\n{\n  dequeue<int> a;\n  a.dump();\n  return 0;\n}\n",
+			"file": "chunk_dequeue/dequeue.cpp",
+			"file_size": 3433,
+			"file_write_time": 130968452802730293,
+			"settings":
+			{
+				"buffer_size": 3783,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dequeue/kt_dequeue.cpp",
+			"settings":
+			{
+				"buffer_size": 3378,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++ 11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ 11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ 11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ 11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ improved.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ improved.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ improved.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ improved.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ improved.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ 11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ 11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ 11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/chunk_dequeue",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/vector"
+	],
+	"file_history":
+	[
+		"/home/karponter/Desktop/valerchik_is_cool.cpp",
+		"/home/karponter/Desktop/cardMinds",
+		"/home/karponter/Projects/noComments/upload/index.html",
+		"/home/karponter/Downloads/9Lab_14.pas",
+		"/home/karponter/Desktop/essey_olko_zminy_v_osvitu.txt",
+		"/home/karponter/Desktop/essey_olko_osvita_maybutniogo.txt",
+		"/usr/include/c++/4.7/bits/stl_pair.h",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/dequeue/kt_dequeue_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/iterators/kt_basic_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/iterators/kt_bidirectional_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/iterators/kt_forward_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/dequeue/deqnode.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/vector/kt_vector.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/dequeue/kt_dequeue.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/iterators/kt_random_access_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/vector/kt_vector_iterator.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/main",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/terminal.glue",
+		"/home/karponter/Projects/SHPP/fourbuddies/Containers/main.cpp",
+		"/home/karponter/Documents/Lib/Chrome apps/VK.com/manifest.json",
+		"/home/karponter/.config/openbox/rc.xml",
+		"/home/karponter/Documents/Lib/Chrome apps/GTranslate/manifest.json",
+		"/home/karponter/Documents/Lib/Chrome apps/GTranslate/mainfest.json",
+		"/home/karponter/.config/openbox/menu.xml",
+		"/home/karponter/.config/tint2/tint2rc",
+		"/home/karponter/.config/google-chrome/Default/Preferences",
+		"/home/karponter/.config/google-chrome/Default/Custom Dictionary.txt",
+		"/home/karponter/.config/google-chrome/Default/Bookmarks",
+		"/home/karponter/Documents/Lib/Scripts/talk.sh",
+		"/home/karponter/Documents/Lib/Scripts/all.ret",
+		"/usr/include/c++/4.7/ostream",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/TEST/untitled.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/TEST/test.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/main.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/output/tmp_otp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/TEST/tmp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/Node.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/typedef.h",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/output/tmp_otp_nodesonly",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/Node8Package.cpp",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/Node8Package.h",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/Node.h",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/old",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/tmp_otp",
+		"/home/karponter/.config/openbox/autostart",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/b",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/main",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/d",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/a",
+		"/home/karponter/Projects/SHPP/fourbuddies/Haffman/test",
+		"/home/karponter/Projects/D_source_executor/index.php",
+		"/home/karponter/Projects/D_source_executor/temp/bQTyEr7aKkNKQZRT_testable.php",
+		"/home/karponter/Projects/D_source_executor/temp/Y9RYQebKAzbNB6di_testablephp",
+		"/home/karponter/Projects/D_source_executor/temp/5EKTN98HzRSRHHKh_testable.php",
+		"/home/karponter/Projects/D_source_executor/testing_base/php",
+		"/home/karponter/Projects/D_source_executor/testfile",
+		"/home/karponter/Documents/Lib/PHP/generateString.php",
+		"/home/karponter/Projects/#ARCHIVE/Polls/upload/core/pollcore.php",
+		"/home/karponter/Projects/#ARCHIVE/Polls/upload/service.php",
+		"/home/karponter/Projects/D_source_executor/exception_error_handler.php",
+		"/home/karponter/Projects/Funnn/index.php",
+		"/var/www/dating/send_mail.html",
+		"/var/www/dating/admin.html",
+		"/home/karponter/Projects/Funnn/ss.svg",
+		"/home/karponter/Projects/Funnn/js/job.js",
+		"/home/karponter/Projects/Funnn/css/styles.css",
+		"/home/karponter/Projects/Funnn/segment.svg",
+		"/home/karponter/Projects/#ARCHIVE/hexus/upload/hexus.php",
+		"/home/karponter/Projects/#ARCHIVE/hexus/upload/js/hexus.js",
+		"/home/karponter/Projects/Funnn/game.html",
+		"/home/karponter/Projects/Funnn/index.html",
+		"/home/karponter/Projects/Funnn/backend/card_interface.php",
+		"/home/karponter/Projects/Funnn/backend/staff.php",
+		"/home/karponter/Projects/Funnn/newGame.html",
+		"/home/karponter/Projects/Funnn/backend/unit.php",
+		"/home/karponter/.cache/.fr-Vxlznd/README.txt",
+		"/var/log/apache2/error.log",
+		"/home/karponter/Projects/Funnn/backend/MysqlGate.php",
+		"/home/karponter/Documents/Lib/PHP/MysqlGate.php",
+		"/home/karponter/Projects/School planning DB/upload/MysqlGate.php",
+		"/etc/php5/cli/php.ini",
+		"/home/karponter/.config/sublime-text-3/Packages/User/php.sublime-build",
+		"/home/karponter/Projects/dating/upload/core/MysqlGate.php",
+		"/home/karponter/Projects/Funnn/terminal.glue",
+		"/home/karponter/Projects/Funnn/css/component2.css",
+		"/home/karponter/Projects/Funnn/css/component1.css",
+		"/home/karponter/.cache/.fr-yRsWMF/CircularNavigation/index2.html",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/temp.h",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/main.cpp",
+		"/etc/apache2/sites-enabled/000-default",
+		"/var/www/index.html",
+		"/etc/apache2/magic",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/temp",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/main",
+		"/home/karponter/.config/sublime-text-3/Packages/User/C++ improved.sublime-build",
+		"/home/karponter/.cache/.fr-RMUf2t/C++ Single File.sublime-build",
+		"/home/karponter/Desktop/ExpressionBuilder.java",
+		"/home/karponter/Desktop/Expression.java",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/somelib.cpp",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/somelib.h",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/RawEquisionParser.h",
+		"/home/karponter/Projects/SHPP/csB/EquisionParser/RawEquisionParser.cpp",
+		"/home/karponter/Projects/MISC_LABS/Kotia/index.php",
+		"/home/karponter/Projects/MISC_LABS/Abramenko_lab_1.php",
+		"/home/karponter/Projects/MISC_LABS/Kotia/YML_packer.php",
+		"/home/karponter/Projects/MISC_LABS/Kotia/p_vo.csv",
+		"/home/karponter/Projects/MISC_LABS/Kotia/default.xml",
+		"/usr/include/X11/XF86keysym.h",
+		"/home/karponter/.Xmodmap",
+		"/home/karponter/index.txt",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/ArrayConvertor.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Tokenizer.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Outfit.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Inventory.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Grabber.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Shield.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Player.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/PlayerAnalytics.php",
+		"/home/karponter/Projects/TheGame?/upload/KT/core/Arena.php",
+		"/home/karponter/Projects/TheGame?/upload/index.php",
+		"/home/karponter/log",
+		"/home/karponter/.cache/.fr-tDm2lN/Bullet requiem[Ver.1.03]/Readme.txt",
+		"/var/www/html/EnventsCalendarJQ/index.php",
+		"/var/www/html/EnventsCalendarJQ/php/DBConnect.php",
+		"/var/www/html/EnventsCalendarJQ/php/DeleteEvent.php",
+		"/var/www/html/EnventsCalendarJQ/php/DBMethods.php",
+		"/home/karponter/Temp/Roma/descr.txt",
+		"/var/www/html/dating/TEMPLATE/license_MIT.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"selection",
+			"main.cpp",
+			"Node.h",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"table",
+			"tempColor",
+			"o",
+			"m",
+			"_m_",
+			"node",
+			"head",
+			"cout",
+			"begin",
+			"++",
+			"T",
+			"next",
+			"kt_vector_iterator",
+			"kt_random_access_iterator",
+			"kt_vector_iterator",
+			"j",
+			"iterator",
+			"I_T",
+			" friend",
+			" friend ",
+			"kt_vector",
+			"	friend kt_vector<T> &operator+ (kt_vector<T> &u1, kt_vector<T> &u2) {\n",
+			"KT_BIDIRECTIONAL_ITERATOR",
+			"kt_bidirectional_iterator",
+			"B",
+			"F",
+			"kt_bidirectional_iterator",
+			"kt_forward_iterator",
+			"R",
+			"kt_forward_iterator",
+			"kt_random_access_iterator",
+			"R",
+			"r",
+			"R",
+			"Iterator",
+			"BASIC",
+			"i",
+			"KTVECTOR",
+			"void",
+			"next",
+			"initialized",
+			"KTVECTOR",
+			"INITIATIVE_VECTOR_SIZE",
+			"cout",
+			"”",
+			"“",
+			"font",
+			"size",
+			"font",
+			"10",
+			"nautilus",
+			"{1,1}",
+			"increese",
+			"nodes++",
+			"peek",
+			"dumpToFile",
+			"left",
+			"\\{.*\\}",
+			"{.*}",
+			"left",
+			".",
+			"haffmanCodingMap",
+			"FQMit",
+			"left",
+			"unit",
+			"map",
+			"enqueue",
+			"fNit",
+			"freeNodes",
+			"left",
+			"right",
+			"r",
+			"right",
+			"->file ",
+			"->file",
+			"file",
+			"Exs",
+			";",
+			"private $",
+			"filename",
+			"Math",
+			"width",
+			"boy",
+			";\n",
+			"extension=",
+			"extension",
+			"boy",
+			"\" ",
+			"background",
+			"back",
+			"boy",
+			"р",
+			"p",
+			"	\n",
+			"BinaryTreeNode",
+			"right",
+			"left",
+			"null",
+			"tmp",
+			"right",
+			"left",
+			".",
+			"prio1",
+			"oper1",
+			"prio1",
+			"tmp",
+			"TYPE_UDEFINED",
+			"retVal",
+			"bracket",
+			"TokenOperator",
+			"TYPE_OPERATOR",
+			"TokenNumber",
+			"const",
+			"SYMBOL",
+			"Token",
+			"main",
+			"string",
+			"Stack",
+			"stack",
+			"nextChar",
+			"currChar",
+			"nextChar",
+			",'",
+			"<",
+			"local",
+			"var_dump",
+			"var",
+			"echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kt_forward_iterator",
+			"kt_iterator",
+			"1",
+			";",
+			"Token",
+			"NULL",
+			"',",
+			"\\n<",
+			"$this->shop_XML_element[0]",
+			"$this->shop_XML_element->shop",
+			"$this->XML_structure->yml_catalog",
+			"$this->shop",
+			"getEventQueue",
+			"\"",
+			"// echo",
+			"try",
+			".php",
+			"",
+			" ",
+			"->GetTarget()",
+			"->GetValue()",
+			"->GetFighter()",
+			"if (",
+			"GetID",
+			"GetIDX",
+			"CheckSkill"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chunk_dequeue/dequeue.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2418,
+								2418
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dequeue/kt_dequeue.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 211.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/User/C++ 11.sublime-build",
+	"project": "Containers.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 340.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"on",
+				"onPostExecute"
+			],
+			[
+				"HSL",
+				"HSlot"
+			],
+			[
+				"H",
+				"HSlot"
+			],
+			[
+				"slot",
+				"HSlot"
+			],
+			[
+				"card",
+				"Card"
+			],
+			[
+				"deck",
+				"Deck"
+			],
+			[
+				"Slot",
+				"Slot"
+			],
+			[
+				"crea",
+				"create_entry"
+			],
+			[
+				"set_con",
+				"set_content"
+			],
+			[
+				"Gri",
+				"Grid"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"Grid",
+				"Grid"
+			],
+			[
+				"ca",
+				"calculate"
+			],
+			[
+				"",
+				"XMLHttpRequest"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
