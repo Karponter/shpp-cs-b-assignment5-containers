@@ -68,12 +68,12 @@ class dequeue {
         }
 
         T pop_front() {
-            T data = (_chunk_connector[_head_chunk].second)[_head_node--];
+            T data = *((_chunk_connector[_head_chunk].second)[_head_node--]);
             if (_head_node == -1) {
                 int to_delete = _head_chunk;
                 _head_chunk = _chunk_connector[_head_chunk].first.first;
                 _chunk_connector[_head_chunk].first.second = -1;
-                delete 
+                delete[] _chunk_connector[to_delete].second
             }
             return data;
         }
